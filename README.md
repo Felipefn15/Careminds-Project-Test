@@ -1,46 +1,42 @@
-Claro! Aqui está o conteúdo atualizado do `README.md` para o seu repositório [Careminds-Project-Test](https://github.com/Felipefn15/Careminds-Project-Test), com as referências à versão "V0" removidas e adaptado conforme as instruções do desafio:
-
----
-
 ```markdown
 # 💼 Careminds Investment Dashboard
 
-Bem-vindo ao repositório do desafio técnico da Careminds!
+Welcome to the Careminds technical challenge repository!
 
-Este projeto é um dashboard de investimentos desenvolvido com **React** e **Next.js**, com o objetivo de visualizar dados financeiros fictícios. A aplicação foi criada como parte do processo seletivo da Careminds para demonstrar habilidades em arquitetura de componentes, manipulação de dados e desenvolvimento de interfaces de usuário.
+This project is an investment dashboard built with **React** and **Next.js**, designed to visualize mock financial data. The application was developed as part of the Careminds selection process to demonstrate skills in component architecture, data handling, and UI development.
 
-## 📌 Visão Geral do Projeto
+## 📌 Project Overview
 
-A aplicação oferece uma interface limpa e funcional onde os usuários podem:
+The application provides a clean and functional interface where users can:
 
-- Visualizar uma lista de **carteiras** com informações financeiras resumidas.
-- Clicar em uma carteira para revelar seus **ativos** e dados adicionais.
-- Navegar suavemente entre as visualizações utilizando componentes bem definidos.
+- View a list of **wallets** with summarized financial information.
+- Click on a wallet to display its **assets** and additional data.
+- Navigate smoothly between views using well-structured components.
 
-## 📁 Recursos Fornecidos
+## 📁 Provided Assets
 
-O desafio incluiu:
+The challenge included:
 
-- `portfolio.json`: um arquivo contendo dados fictícios de investimentos (três carteiras diferentes e seus respectivos ativos).
-- `mockup.png`: um layout de interface de usuário de referência para orientar decisões visuais e de experiência do usuário.
+- `portfolio.json`: a file containing mock investment data (three different wallets and their respective assets).
+- `mockup.png`: a reference user interface layout to guide design and UX decisions.
 
-## 🚀 Funcionalidades
+## 🚀 Features
 
-- ⚙️ **Construído com Next.js** para renderização do lado do servidor e roteamento.
-- 🧩 **Arquitetura baseada em componentes** utilizando React.
-- 🔄 **Renderização dinâmica de dados** a partir de um arquivo JSON local.
-- 🎨 **Layout responsivo** inspirado no mockup fornecido (com algumas melhorias de UX/UI).
-- ♻️ **Componentes reutilizáveis** para escalabilidade e legibilidade.
+- ⚙️ **Built with Next.js** for server-side rendering and routing.
+- 🧩 **Component-based architecture** using React.
+- 🔄 **Dynamic data rendering** from a local JSON file.
+- 🎨 **Responsive layout** inspired by the provided mockup (with a few UX/UI improvements).
+- ♻️ **Reusable components** for scalability and readability.
 
-## 📹 Vídeo Demonstrativo
+## 📹 Demo Video
 
-Um breve vídeo demonstrativo (com menos de 5 minutos) está disponível, apresentando:
+A short demo video (under 5 minutes) is available, showcasing:
 
-1. Meu processo de pensamento e decisões arquitetônicas.
-2. Uma visão geral da estrutura do código.
-3. A aplicação em funcionamento no navegador.
+1. My thought process and architectural decisions.
+2. An overview of the code structure.
+3. The app running in the browser.
 
-## 🏗️ Estrutura do Projeto
+## 🏗️ Project Structure
 
 ```
 📂 src
@@ -57,30 +53,22 @@ Um breve vídeo demonstrativo (com menos de 5 minutos) está disponível, aprese
     ┗ 📄 globals.css
 ```
 
-## ⏱️ Estimativa de Tempo
+## ⏱️ Estimated Time
 
-Tempo total de desenvolvimento: **~2 horas**
+Total development time: **~2 hours**
 
-## 📦 Iniciando o Projeto
+## 📦 Getting Started
 
-Para executar o projeto localmente:
+To run the project locally:
 
 ```bash
-# Clone o repositório
+# Clone the repository
 git clone https://github.com/Felipefn15/Careminds-Project-Test.git
 
-# Instale as dependências
+# Install dependencies
 npm install
 
-# Execute o servidor de desenvolvimento
+# Run the development server
 npm run dev
 ```
-
-Em seguida, acesse [http://localhost:3000](http://localhost:3000) no seu navegador.
-
-## 🗓️ Informações de Submissão
-
-- **Prazo**: 1 semana a partir de 21 de abril
-- **Submissão**: Link do GitHub + vídeo explicativo via e-mail
-
----
+```
