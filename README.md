@@ -71,4 +71,6 @@ npm install
 # Run the development server
 npm run dev
 ```
+[Demo](https://v0-careminds-task.vercel.app/)
+
 ```
